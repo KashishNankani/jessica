@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+build/
+
+# Optional (your debug files)
+*.png
+*.html
+*.json
